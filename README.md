@@ -1,7 +1,5 @@
 ### <h1 align="center"> Hi there 👋 </h1>
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently studying Computer Engineering
 - 🌱 I’m currently learning the entire **Full Stack** environment
 - 💬 Ask me about Java, Python, SQL
